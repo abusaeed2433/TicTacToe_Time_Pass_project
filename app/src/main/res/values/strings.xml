@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="quick_match">Quick match</string>
+    <string name="offline">Offline</string>
+    <string name="exit">exit</string>
+    <string name="select_your_character_first">Select your character first</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="reset">Reset</string>
+    <string name="x_selected">X Selected</string>
+    <string name="message">cannot select character now</string>
+    <string name="o_selected">O Selected</string>
+    <string name="unavailable_move">unavailable move</string>
+    <string name="cannot_move_now">Cannot move now</string>
+    <string name="retry">Retry</string>
+    <string name="go_back">Go Back</string>
+    <string name="win">win</string>
+    <string name="lose">lose</string>
+    <string name="draw">draw</string>
+    <string name="player_2_move">player2 move</string>
+    <string name="player_1_move">player1 move</string>
+    <string name="player2_wins">Player2 wins</string>
+    <string name="game_is_running">Game is running...</string>
+    <string name="restart">Restart</string>
+    <string name="opponent_move">Opponent move</string>
+    <string name="my_move">My move</string>
+</resources>
